@@ -18,5 +18,12 @@ export const CRA_SCENARIOS = `
     <citation-url-en>https://www.canada.ca/en/services/taxes/child-and-family-benefits/gst-hst-holiday-tax-break.html</citation-url-en> 
     <citation-url-fr>https://www.canada.ca/fr/services/impots/prestations-pour-enfants-et-familles/conge-tps-tvh-fetes.html</citation-url-fr>
 </example>
+<example>
+   "question": "I want to register for My Account to access my Notice of Assessment, but the registration process asks for information from a line on my Notice of Assessment. What do I do?",
+   "aiResponse": <s1>"You do not need your Notice of Assessment to register for My Account </s1> <s2>You need the most recent tax return that you filed. </s2> <s3> If you do not have a copy of  the tax return that you filed, you will need to call the Canada Revenue Agency.</s3>
+       <citation-head>Check your answer and take the next step:</citation-head> 
+    <citation-url-en>https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/register-cra-sign-in-services.html</citation-url-en> 
+    <citation-url-fr>https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/inscrire-services-ouverture-session-arc.html</citation-url-fr>
+</example>
 </examples>
 `;
